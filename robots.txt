@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /eventos/
+
+Sitemap: https://cisecce.com/sitemap.xml
